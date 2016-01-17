@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Knight.png</Source>
+      <Name>Graphics\Knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\Knight.xnb</Output>
+      <Time>2014-12-01T10:15:43.0151844-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\bow.png</Source>
+      <Name>Graphics\bow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\bow.xnb</Output>
+      <Time>2014-12-02T10:43:28.7368861-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\bowR.png</Source>
+      <Name>Graphics\bowR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\bowR.xnb</Output>
+      <Time>2014-12-02T10:42:25.1142618-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\arrow.png</Source>
+      <Name>Graphics\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\arrow.xnb</Output>
+      <Time>2014-12-03T11:01:58.6016838-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\arrowR.png</Source>
+      <Name>Graphics\arrowR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\arrowR.xnb</Output>
+      <Time>2014-12-03T11:03:49.6941406-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gorgon.png</Source>
+      <Name>Graphics\gorgon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\gorgon.xnb</Output>
+      <Time>2014-12-17T10:43:31.7441977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gorgonR.png</Source>
+      <Name>Graphics\gorgonR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\gorgonR.xnb</Output>
+      <Time>2014-12-17T10:43:37.7015434-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2014-12-27T12:02:18.1331647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Fireball.png</Source>
+      <Name>Graphics\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\Fireball.xnb</Output>
+      <Time>2014-12-20T15:03:26.4255647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\FireballR.png</Source>
+      <Name>Graphics\FireballR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\FireballR.xnb</Output>
+      <Time>2014-12-20T15:03:26.4465029-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\batR.png</Source>
+      <Name>Graphics\batR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\batR.xnb</Output>
+      <Time>2014-12-21T14:28:08.3501072-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\bat.png</Source>
+      <Name>Graphics\bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\bat.xnb</Output>
+      <Time>2014-12-21T14:28:14.6989657-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\skeleton.png</Source>
+      <Name>Graphics\skeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\skeleton.xnb</Output>
+      <Time>2014-12-23T14:55:54.5006834-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\skeletonR.png</Source>
+      <Name>Graphics\skeletonR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\skeletonR.xnb</Output>
+      <Time>2014-12-23T14:55:54.4741714-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sacred_Bow.png</Source>
+      <Name>Graphics\Sacred_Bow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\Sacred_Bow.xnb</Output>
+      <Time>2015-01-04T15:53:49.2624738-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sacred_BowR.png</Source>
+      <Name>Graphics\Sacred_BowR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\Sacred_BowR.xnb</Output>
+      <Time>2015-01-04T15:53:31.4686187-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\energy_ball.png</Source>
+      <Name>Graphics\energy_ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\energy_ball.xnb</Output>
+      <Time>2015-01-04T15:52:43.1061376-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\energy_ballR.png</Source>
+      <Name>Graphics\energy_ballR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\energy_ballR.xnb</Output>
+      <Time>2015-01-04T15:53:03.1676109-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\caveBackground.jpg</Source>
+      <Name>Graphics\caveBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\caveBackground.xnb</Output>
+      <Time>2014-12-24T15:13:55.9361838-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\jungleBackground.png</Source>
+      <Name>Graphics\jungleBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\jungleBackground.xnb</Output>
+      <Time>2015-01-04T15:52:04.9119641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\background_forest.png</Source>
+      <Name>Graphics\background_forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\background_forest.xnb</Output>
+      <Time>2014-12-24T15:21:58.0848126-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\arrowBundle.png</Source>
+      <Name>Graphics\arrowBundle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\arrowBundle.xnb</Output>
+      <Time>2014-12-27T11:05:15.8002027-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\hp_potion.png</Source>
+      <Name>Graphics\hp_potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\hp_potion.xnb</Output>
+      <Time>2015-01-04T16:00:19.8796465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\mp_potion.png</Source>
+      <Name>Graphics\mp_potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\mp_potion.xnb</Output>
+      <Time>2015-01-04T16:00:03.5783476-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ArrowsBundle.png</Source>
+      <Name>Graphics\ArrowsBundle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\ArrowsBundle.xnb</Output>
+      <Time>2014-12-27T11:22:58.7844453-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\shopBackground.jpg</Source>
+      <Name>Graphics\shopBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\shopBackground.xnb</Output>
+      <Time>2015-01-04T15:59:21.9586896-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\swampMonster.png</Source>
+      <Name>Graphics\swampMonster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\swampMonster.xnb</Output>
+      <Time>2014-12-28T12:35:36.4533445-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gooShot.png</Source>
+      <Name>Graphics\gooShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\gooShot.xnb</Output>
+      <Time>2014-12-28T12:53:03.3020411-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\batKilled.wav</Source>
+      <Name>Sounds\batKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\batKilled.xnb</Output>
+      <Time>2014-12-29T12:26:18.6855948-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bossKilled.wav</Source>
+      <Name>Sounds\bossKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\bossKilled.xnb</Output>
+      <Time>2014-12-29T12:26:18.6739925-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bowShot.wav</Source>
+      <Name>Sounds\bowShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\bowShot.xnb</Output>
+      <Time>2014-12-29T12:26:18.7092035-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gorgonKilled.wav</Source>
+      <Name>Sounds\gorgonKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\gorgonKilled.xnb</Output>
+      <Time>2014-12-29T12:26:18.6801754-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hit.wav</Source>
+      <Name>Sounds\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\hit.xnb</Output>
+      <Time>2014-12-29T12:26:18.6973076-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hurt.wav</Source>
+      <Name>Sounds\hurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\hurt.xnb</Output>
+      <Time>2014-12-29T12:26:18.6669835-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\magicCast.wav</Source>
+      <Name>Sounds\magicCast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\magicCast.xnb</Output>
+      <Time>2014-12-29T12:26:18.7029606-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\skeletonKilled.wav</Source>
+      <Name>Sounds\skeletonKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\skeletonKilled.xnb</Output>
+      <Time>2014-12-29T12:26:18.6913036-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\swordSlash.wav</Source>
+      <Name>Sounds\swordSlash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\swordSlash.xnb</Output>
+      <Time>2014-12-29T12:39:13.2365766-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bowShot2.wav</Source>
+      <Name>Sounds\bowShot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\bowShot2.xnb</Output>
+      <Time>2014-12-29T12:26:18.6463684-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TitleFont.spritefont</Source>
+      <Name>Fonts\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Fonts\TitleFont.xnb</Output>
+      <Time>2014-12-29T13:07:16.8837904-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\boring-cavern.mp3</Source>
+      <Name>Sounds\boring-cavern</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\boring-cavern.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\boring-cavern.wma</Extra>
+      <Time>2014-12-29T14:40:31.472685-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\evil-throne.mp3</Source>
+      <Name>Sounds\evil-throne</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\evil-throne.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\evil-throne.wma</Extra>
+      <Time>2014-12-29T14:40:31.4926942-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\little-traveller.mp3</Source>
+      <Name>Sounds\little-traveller</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\little-traveller.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\little-traveller.wma</Extra>
+      <Time>2014-12-29T14:40:31.4993661-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\lost-hero.mp3</Source>
+      <Name>Sounds\lost-hero</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\lost-hero.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\lost-hero.wma</Extra>
+      <Time>2014-12-29T14:40:31.556178-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\mazy-jungle.mp3</Source>
+      <Name>Sounds\mazy-jungle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\mazy-jungle.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\mazy-jungle.wma</Extra>
+      <Time>2014-12-29T14:40:31.6297802-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Shop Theme.mp3</Source>
+      <Name>Sounds\Shop Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\Shop Theme.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\Shop Theme.wma</Extra>
+      <Time>2014-12-29T14:40:31.6385409-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\KnightDie.png</Source>
+      <Name>Graphics\KnightDie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\KnightDie.xnb</Output>
+      <Time>2014-12-29T15:15:17.0263719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\sad-story.mp3</Source>
+      <Name>Sounds\sad-story</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\sad-story.xnb</Output>
+      <Extra>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Sounds\sad-story.wma</Extra>
+      <Time>2014-12-29T15:32:28.670092-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\templeBackground.jpg</Source>
+      <Name>Graphics\templeBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\templeBackground.xnb</Output>
+      <Time>2014-12-29T15:45:52.8372858-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\titleBackground.jpg</Source>
+      <Name>Graphics\titleBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\Graphics\titleBackground.xnb</Output>
+      <Time>2015-01-04T15:49:51.8236381-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Timothy\Documents\ICS4UE\Unit 12\Activities\FinalXNAGame\FinalXNAGame\FinalXNAGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-08T12:54:25.9075993-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
